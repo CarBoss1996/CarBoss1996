@@ -5,7 +5,7 @@
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarBoss1996&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=n-katou&theme=onedark)](https://github-profile-trophy.vercel.app/?username=CarBoss1996&theme=tokyonight)
+[![trophy](https://github-profile-trophy.vercel.app/?username=CarBoss1996&theme=onedark)](https://github-profile-trophy.vercel.app/?username=CarBoss1996&theme=tokyonight)
 
 ### Skills
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26.svg?logo=html5&style=flat-square&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
