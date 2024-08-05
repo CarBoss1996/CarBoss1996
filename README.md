@@ -15,8 +15,5 @@
 [![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000.svg?logo=ruby-on-rails&style=flat-square&logoColor=white)](https://rubyonrails.org/)
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&style=flat-square&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&style=flat-square&logoColor=white)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/-React-61DAFB.svg?logo=react&style=flat-square&logoColor=black)](https://reactjs.org/)
-[![Next.js](https://img.shields.io/badge/-Next.js-000000.svg?logo=next.js&style=flat-square&logoColor=white)](https://nextjs.org/)
 
 [![Docker](https://img.shields.io/badge/-Docker-2496ED.svg?logo=docker&style=flat-square&logoColor=white)](https://www.docker.com/)
